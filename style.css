@@ -16,4 +16,7 @@ body {
 #author {
   color: #0c0c0c;
   text-align: right;
+  position: absolute;
+  right: 0;
+  bottom: 0;
 }
