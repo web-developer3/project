@@ -1,0 +1,18 @@
+body {
+  background-image: url(background.jpg);
+  text-align: center;
+  color: white;
+}
+
+#nav {
+  height: 50px;
+}
+
+#img {
+  border: solid 2px lightgray;
+  border-radius: 50px;
+}
+
+#author {
+  color: rgb(30, 30, 30);
+}
